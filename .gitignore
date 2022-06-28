@@ -1,0 +1,7 @@
+#Configurar archivos a ignorar o hacer seguimiento
+
+Secretos.txt
+
+prueba/
+
+*.log
